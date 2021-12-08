@@ -3,3 +3,4 @@ rules.xml
 test/xspec/*
 rules/test/xspec/*
 rules/test/tests/xspec/*
+*.xpr
